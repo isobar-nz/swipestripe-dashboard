@@ -1,5 +1,5 @@
 {
-  "name": "littlegiantdesign/swipestripe-dashboard",
+  "name": "littlegiant/swipestripe-dashboard",
   "description": "Dashboard components for SwipeStripe",
   "homepage": "www.littlegiant.co.nz",
   "license": "MIT",
@@ -18,6 +18,6 @@
     "unclecheese/dashboard": "dev-master"
   },
   "suggest": {
-    "littlegiantdesign/swipestripe-reports": "Reporting and sales statistics for SwipeStripe"
+    "littlegiant/swipestripe-reports": "Reporting and sales statistics for SwipeStripe"
   }
 }
