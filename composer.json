@@ -1,0 +1,23 @@
+{
+  "name": "littlegiantdesign/swipestripe-dashboard",
+  "description": "Dashboard components for SwipeStripe",
+  "homepage": "www.littlegiant.co.nz",
+  "license": "MIT",
+  "type": "silverstripe-module",
+  "keywords": ["silverstripe", "ecommerce", "e-commerce", "shop", "swipestripe", "swipe stripe", "dashboard", "graph", "report"],
+  "authors": [
+    {
+      "name": "Stevie Mayhew",
+      "email": "stevie.mayhew@littlegiant.co.nz"
+    }
+  ],
+  "require": {
+    "silverstripe/framework": "~3.1",
+    "silverstripe/cms": "~3.1",
+    "swipestripe/swipestripe": "2.1.*",
+    "unclecheese/dashboard": "dev-master"
+  },
+  "suggest": {
+    "littlegiantdesign/swipestripe-reports": "Reporting and sales statistics for SwipeStripe"
+  }
+}

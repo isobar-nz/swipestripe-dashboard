@@ -1,0 +1,12 @@
+---
+Name: swipestripe-dashboard
+After: 'framework/*', 'cms/*'
+---
+
+Order:
+  extensions:
+    - DashboardOrderExtension
+
+Product:
+  extensions:
+    - DashboardProductExtension
